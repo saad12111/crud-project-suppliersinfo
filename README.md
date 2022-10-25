@@ -10,3 +10,5 @@ You can update the data base information by selecting the teacher id by entering
 You can delete the record from the data base by entering 4.
 You can re-join the record from the data base by entering 5.
 You can exit the program by entring 6.
+
+this can be used in a company to manage suppliers information accurately. 
